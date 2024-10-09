@@ -79,14 +79,14 @@ body {
   align-items: center;
 }
 
-.cabecalho-menu a {
+.menu-cabecalho a {
   font-size: 18px;
   color: #fff;
   padding: 10px;
   transition: color 200ms linear;
 }
 
-.cabecalho-menu a:hover {
+.menu-cabecalho a:hover {
   opacity: .8;
 }
 
